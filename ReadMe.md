@@ -1,6 +1,7 @@
-# 💫 About Me:
-Sou estudante de Front end<br>Estou a procura de estágio <br>
-
+# Olá! Sou a Isabela Souza 😎
+😎Sou estudante de Front end<br>
+😁Estou a procura de estágio <br>
+😊pronous:ela/dela
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Isabela-souza19) 
