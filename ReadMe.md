@@ -1,6 +1,5 @@
 # Olá! Sou a Isabela Souza 😎
-😎Sou estudante de Front end<br>
-😁Estou a procura de estágio <br>
+😎Sou Programadora Front End |Back End <br>
 😊pronous:ela/dela
 
 ## 🌐 Socials:
