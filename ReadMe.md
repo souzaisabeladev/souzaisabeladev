@@ -1,5 +1,8 @@
-# Olá! Sou a Isabela Souza 😎
-😎Sou Programadora Front End |Back End <br>
+## Hi There 😎
+😎 Eu Sou a Isabela Souza,sou uma Programadora Full Stack
+<br>
+ 📚 Estudante de ADS 
+ <br>
 😊pronous:ela/dela
 
 ## 🌐 Socials:
