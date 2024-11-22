@@ -1,5 +1,9 @@
 # Olá! Eu sou a  Isabela Souza, é um prazer conhecê-lo(a). 👋
 <br>
+
+ <img src="https://github.com/souzaisabeladev/souzaisabeladev/blob/main/capa%20lk.jpeg?raw=true">
+
+ <br>
 💻 Programando sonhos em código
 <br>
 🎓 Estudante de ADS, apaixonada por tecnologia
