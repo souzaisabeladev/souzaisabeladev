@@ -1,8 +1,11 @@
-## Hi There 😎
-😎 Eu Sou a Isabela Souza,sou uma Programadora Full Stack
+# Olá! Eu sou a  Isabela Souza, é um prazer conhecê-lo(a). 👋
 <br>
- 📚 Estudante de ADS 
- <br>
+💻 Programando sonhos em código
+<br>
+🎓 Estudante de ADS, apaixonada por tecnologia
+<br>
+🌟 Full Stack Developer em constante evolução
+<br>
 😊pronous:ela/dela
 
 ## 🌐 Socials:
