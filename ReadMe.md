@@ -87,12 +87,4 @@ Desenvolvedora em formação, estudante de Análise e Desenvolvimento de Sistema
 
 
 
-<div align="center">
 
-### Let's connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-DB4C9A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isabela-souza19)
-
-**Building my future through technology.**
-
-</div>
