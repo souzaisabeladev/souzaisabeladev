@@ -54,13 +54,14 @@ Desenvolvedora em formação, estudante de Análise e Desenvolvimento de Sistema
 | [MV Imports](https://github.com/souzaisabeladev/site-MV-imports) | Catálogo digital de produtos com integração ao WhatsApp |
 
 
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=souzaisabeladev&show_icons=true&theme=transparent&hide_border=true&title_color=DB4C9A&icon_color=DB4C9A&text_color=FFFFFF"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaisabeladev&layout=compact&theme=transparent&hide_border=true&title_color=DB4C9A&text_color=FFFFFF"/>
+![GitHub Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souzaisabeladev&theme=github_dark)
 
 </div>
 
@@ -74,9 +75,16 @@ Desenvolvedora em formação, estudante de Análise e Desenvolvimento de Sistema
 <img src="https://img.shields.io/badge/LinkedIn-Connect-DB4C9A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
+<a href="https://isasouzadev.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-DB4C9A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
 **Building my future through technology.**
 
 </div>
+
 
 
 <div align="center">
