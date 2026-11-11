@@ -1,28 +1,76 @@
-# Olá! Eu sou a  Isabela Souza, é um prazer conhecê-lo(a). 👋
-<br>
 
- <img src="https://github.com/souzaisabeladev/souzaisabeladev/blob/main/capa%20lk.jpeg?raw=true">
+<div align="center">
 
- <br>
-💻 Programando sonhos em código
-<br>
-🎓 Estudante de ADS, apaixonada por tecnologia
-<br>
-🌟 Full Stack Developer em constante evolução
-<br>
-😊pronous:ela/dela
+# Isabela Souza
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@Isabela-souza19) 
+### Software Developer | JavaScript • Node.js • Java
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=souzaisabeladev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=souzaisabeladev&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=souzaisabeladev&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Desenvolvedora em formação, estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia e desenvolvimento de soluções digitais.
+
+[Portfolio](https://isasouzadev.netlify.app) • [LinkedIn](https://linkedin.com/in/isabela-souza19)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=souzaisabeladev&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩🏻‍💻 About Me
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Focada em desenvolvimento de software.
+- 🚀 Estudando JavaScript, Node.js e Java.
+- 🌱 Sempre buscando aprender e desenvolver novas soluções.
+- 🎯 Em busca de oportunidades como Desenvolvedora Júnior ou Estagiária em Tecnologia.
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+
+**Front-End**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
+
+**Back-End**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=fff)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Isa Souza Dev](https://isasouzadev.netlify.app) | Meu portfólio profissional |
+| [Restaurando Vidas](https://site-restaurando-vidas.vercel.app) | Projeto de desenvolvimento web |
+| [MV Imports](https://github.com/souzaisabeladev/site-MV-imports) | Catálogo digital de produtos com integração ao WhatsApp |
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=souzaisabeladev&show_icons=true&theme=transparent&hide_border=true&title_color=DB4C9A&icon_color=DB4C9A&text_color=FFFFFF"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzaisabeladev&layout=compact&theme=transparent&hide_border=true&title_color=DB4C9A&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-DB4C9A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/isabela-souza19)
+
+**Building my future through technology.**
+
+</div>
