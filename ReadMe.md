@@ -53,6 +53,7 @@ Desenvolvedora em formação, estudante de Análise e Desenvolvimento de Sistema
 | [Restaurando Vidas](https://site-restaurando-vidas.vercel.app) | Projeto de desenvolvimento web |
 | [MV Imports](https://github.com/souzaisabeladev/site-MV-imports) | Catálogo digital de produtos com integração ao WhatsApp |
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -64,6 +65,19 @@ Desenvolvedora em formação, estudante de Análise e Desenvolvimento de Sistema
 </div>
 
 ---
+
+<div align="center">
+
+### Let's connect!
+
+<a href="https://linkedin.com/in/isabela-souza19">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-DB4C9A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+**Building my future through technology.**
+
+</div>
+
 
 <div align="center">
 
